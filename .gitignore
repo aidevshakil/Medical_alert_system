@@ -1,0 +1,172 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Byte-compiled / optimized
+*.so
+
+# IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+logs/
+run/
+*.pid
+*.sock
+
+# Database files
+*.sqlite3
+*.db
+*.db-journal
+
+# Testing / coverage
+.coverage
+coverage.xml
+htmlcov/
+.nox/
+.tox/
+
+# MyPy, pyright, caching
+.mypy_cache/
+.pyre/
+.pyright/
+
+# Audio / uploaded media / model weights
+uploads/
+media/
+storage/
+models/
+weights/
+*.wav
+*.mp3
+*.flac
+
+# Secrets and environment
+.env
+.env.* 
+secrets.json
+*.key
+*.pem
+
+# Docker
+docker-compose.override.yml
+*.tar
+devcontainer.json
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Misc
+coverage/
+local_settings.py
+credentials/
+.idea/
+```# filepath: /Users/asif/vscode/medical_alert/voice-to-text-profiling-alert/.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Byte-compiled / optimized
+*.so
+
+# IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+logs/
+run/
+*.pid
+*.sock
+
+# Database files
+*.sqlite3
+*.db
+*.db-journal
+
+# Testing / coverage
+.coverage
+coverage.xml
+htmlcov/
+.nox/
+.tox/
+
+# MyPy, pyright, caching
+.mypy_cache/
+.pyre/
+.pyright/
+
+# Audio / uploaded media / model weights
+uploads/
+media/
+storage/
+models/
+weights/
+*.wav
+*.mp3
+*.flac
+
+# Secrets and environment
+.env
+.env.* 
+secrets.json
+*.key
+*.pem
+
+# Docker
+docker-compose.override.yml
+*.tar
+devcontainer.json
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Misc
+coverage/
+local_settings.py
+credentials/
+.idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
